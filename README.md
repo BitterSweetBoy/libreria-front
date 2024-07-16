@@ -15,7 +15,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
 1. **Clonar el Repositorio**
    git clone https://github.com/BitterSweetBoy/libreria-front.git
-   cd nombre-del-repositorio
 2. **Instalar dependencias**
    npm install
 3. **Ejecutar el app**
